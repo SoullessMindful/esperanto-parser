@@ -1,0 +1,9 @@
+html {
+  --bg-col: hsl(0, 0%, 10%);
+  --txt-col: white;
+}
+
+body {
+  background-color: var(--bg-col);
+  color: var(--txt-col);
+}
